@@ -1,0 +1,14 @@
+C:\Users\Gato\Desktop\Lenguajes-programacion\EjemploCSHARP\bin\Debug\net8.0\EjemploCSHARP.exe
+C:\Users\Gato\Desktop\Lenguajes-programacion\EjemploCSHARP\bin\Debug\net8.0\EjemploCSHARP.deps.json
+C:\Users\Gato\Desktop\Lenguajes-programacion\EjemploCSHARP\bin\Debug\net8.0\EjemploCSHARP.runtimeconfig.json
+C:\Users\Gato\Desktop\Lenguajes-programacion\EjemploCSHARP\bin\Debug\net8.0\EjemploCSHARP.dll
+C:\Users\Gato\Desktop\Lenguajes-programacion\EjemploCSHARP\bin\Debug\net8.0\EjemploCSHARP.pdb
+C:\Users\Gato\Desktop\Lenguajes-programacion\EjemploCSHARP\obj\Debug\net8.0\EjemploCSHARP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gato\Desktop\Lenguajes-programacion\EjemploCSHARP\obj\Debug\net8.0\EjemploCSHARP.AssemblyInfoInputs.cache
+C:\Users\Gato\Desktop\Lenguajes-programacion\EjemploCSHARP\obj\Debug\net8.0\EjemploCSHARP.AssemblyInfo.cs
+C:\Users\Gato\Desktop\Lenguajes-programacion\EjemploCSHARP\obj\Debug\net8.0\EjemploCSHARP.csproj.CoreCompileInputs.cache
+C:\Users\Gato\Desktop\Lenguajes-programacion\EjemploCSHARP\obj\Debug\net8.0\EjemploCSHARP.dll
+C:\Users\Gato\Desktop\Lenguajes-programacion\EjemploCSHARP\obj\Debug\net8.0\refint\EjemploCSHARP.dll
+C:\Users\Gato\Desktop\Lenguajes-programacion\EjemploCSHARP\obj\Debug\net8.0\EjemploCSHARP.pdb
+C:\Users\Gato\Desktop\Lenguajes-programacion\EjemploCSHARP\obj\Debug\net8.0\EjemploCSHARP.genruntimeconfig.cache
+C:\Users\Gato\Desktop\Lenguajes-programacion\EjemploCSHARP\obj\Debug\net8.0\ref\EjemploCSHARP.dll
